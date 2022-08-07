@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sohail1822
 - 👀 I’m interested in Web Development , Competitive Progamming and Data Science
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at shaikhsohail1822@gmail.com
 
 <!---
