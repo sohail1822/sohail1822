@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohail1822
 - 👀 I’m interested in Web Development , Competitive Progamming and Data Science
 - 🌱 I’m currently learning DSA
-- 📫 How to reach me at shaikhsohail1822@gmail.com
+- 📫 Reach me at shaikhsohail1822@gmail.com
 
 <!---
 sohail1822/sohail1822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
