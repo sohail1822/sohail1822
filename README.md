@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Sohail Shaikh a Pre-Final Year Student at IIT(ISM) Dhanbad with Keen Interest in Computer and Data Science.
 - 👀 I’m interested in Web Development, Machine Learning, Deep Learning, NLP and LLM. 
-- 🌱 I have Knowledge of various CS Fundamentals such as DSA ,Operating System ,Computer Networks ,Object Oriented Programming and Data Base Management Systems.
+- 🌱 I have Knowledge of various CS Fundamentals such as Data Structures and Algorithms ,Operating System ,Computer Networks ,Object Oriented Programming and Data Base Management Systems.
 - 📫 Reach me at shaikhsohail1822@gmail.com
 
 <!---
