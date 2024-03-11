@@ -1,7 +1,7 @@
 # Sohail Shaikh
 
 - 👋 Hi, I’m @sohail1822
-- 👀 I’m interested in Web Development and Competitive Progamming
+- 👀 I’m interested in Web Development, Machine Learning, Deep Learning, NLP and LLM. 
 - 🌱 I have Knowledge of various CS Fundamentals such as DSA,Operating System,Object Oriented Programming and DBMS.
 - 📫 Reach me at shaikhsohail1822@gmail.com
 
