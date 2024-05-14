@@ -1,8 +1,7 @@
- <h1 align="center">Hi 👋, I'm Sohail Shaikh</h1>
+  <h1 align="center">Hi 👋, I'm Sohail Shaikh</h1>
 <h3 align="center">Full Stack Developer | Exploring Applications of ML , AI and Generative AI</h3>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0275e4f3a942f96e37cf14bca6ac20565cfda5e4d12add4d02a53ed041a423e6/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636d5a726357786e63324935656d52795a32747459586c6c4e446833626e4534656d4e7a4d6d6b795a6d3136616d746e4e6a6c344e695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://camo.githubusercontent.com/0275e4f3a942f96e37cf14bca6ac20565cfda5e4d12add4d02a53ed041a423e6/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636d5a726357786e63324935656d52795a32747459586c6c4e446833626e4534656d4e7a4d6d6b795a6d3136616d746e4e6a6c344e695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966" data-canonical-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZrcWxnc2I5emRyZ2ttYXllNDh3bnE4emNzMmkyZm16amtnNjl4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
-- 🔭 I’m currently working on **enhancing my technical skills and financial knowledge.**
+- 🔭 Working on **enhancing my technical skills and financial knowledge.**
 
 - 🌱 I’m currently learning **ML,DL and Generative AI**
 
@@ -12,13 +11,15 @@
 
 - ⚡ Fun fact **The first computer bug wasn't a software glitch, but a real moth stuck in a machine!**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sohail-shaikh-063927230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohail-shaikh-063927230/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sohail1822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sohail1822" height="30" width="40" /></a>
-<a href="https://medium.com/shaikhsohail1822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shaikhsohail1822" height="30" width="40" /></a>
+<a href="https://medium.com/@shaikhsohail1822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shaikhsohail1822" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/soh1822" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="soh1822" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sohail1822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sohail1822" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sohail1822/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohail1822/" height="30" width="40" /></a>
