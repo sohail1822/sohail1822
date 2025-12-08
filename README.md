@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking to collaborate on<br>Open-source backend tools, distributed systems projects, and developer productivity tooling.<br><br>🫂 I’m looking for help with<br>Advanced system design topics and optimizing high-throughput backend pipelines.<br><br>🌱 I’m currently learning<br>Generative AI, backend distributed systems, and deeper internals of messaging queues & cloud architectures.<br><br>💬 Ask me about<br>Backend engineering, system design fundamentals, message brokers, databases, or generative AI.<br>⚡ Fun fact<br>I love turning messy engineering problems into clean, scalable architectures.
+🤝 I’m looking to collaborate on<br>Open-source backend tools, distributed systems projects, and developer productivity tooling.<br><br>🫂 I’m looking for help with<br>Advanced system design topics and optimizing high-throughput backend pipelines.<br><br>🌱 I’m currently learning<br>Generative AI, backend distributed systems, and deeper internals of messaging queues & cloud architectures.<br><br>💬 Ask me about<br>Backend engineering, system design fundamentals, message brokers, databases, or generative AI.<br><br>⚡ Fun fact<br>I love turning messy engineering problems into clean, scalable architectures.
 
 
 ## 🌐 Socials:
